@@ -1,0 +1,3 @@
+[submodule "proto/protoFiles"]
+	path = proto/protoFiles
+	url = https://github.com/angel-ctrl/protoFiles
